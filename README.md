@@ -45,7 +45,7 @@
 
 ---
 
-<h3 align="center">【﻿L A N G U A G E S & T O O L S】</h3>
+<h3 align="center">【﻿L A N G U A G E S  &  T O O L S】</h3>
 <a href="https://github.com/muddassir-ali">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
