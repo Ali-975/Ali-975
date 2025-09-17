@@ -14,21 +14,14 @@
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
 
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td align="left" style="padding:0;">
-      <a href="https://github.com/Ali-975">
-        <img src="https://komarev.com/ghpvc/?username=muddassir-ali&label=PROFILE+VIEWS&color=ff0000&labelColor=ff0000&style=for-the-badge" alt="Profile views"/>
-      </a>
-    </td>
-    <td align="right" style="padding:0;">
-      <a href="https://github.com/Ali-975">
-        <img src="https://img.shields.io/github/followers/Ali-975?logo=github&label=FOLLOWERS&labelColor=555555&color=ff0000&style=for-the-badge" alt="Followers"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <a href="https://github.com/Ali-975">
+    <img src="https://komarev.com/ghpvc/?username=muddassir-ali&label=PROFILE+VIEWS&color=ff0000&labelColor=ff0000&style=for-the-badge" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/Ali-975">
+    <img src="https://img.shields.io/github/followers/Ali-975?logo=github&label=FOLLOWERS&labelColor=555555&color=ff0000&style=for-the-badge" alt="Followers"/>
+  </a>
+</p>
 
 <table>
   <tr>
@@ -110,14 +103,14 @@
   <img align="centre"
        src="https://github-readme-stats.vercel.app/api?username=Ali-975&show_icons=true&theme=yeblu&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=001f3f" alt="Ali-975"
        alt="Ali-975" 
-       width = 49%
+       width = 69%
 </p>
 
 <p>
   <img align="centre" 
        src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-975&theme=algolia&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&background=001f3f"
        alt="Ali-975" 
-       width = 49%
+       width = 69%
 </p>
 
 
