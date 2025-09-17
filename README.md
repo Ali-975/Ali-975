@@ -113,8 +113,6 @@
        width = 65%
 </p>
 
-
-
 <p align="centre">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Ali-975&theme=yeblu" alt="Ali-975" width="100%" />
