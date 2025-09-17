@@ -92,25 +92,18 @@
 </a>
 <br><br>
 
-<p>
-  <img align="right" 
-     src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali-975&langs_count=10&show_icons=true&theme=yeblu&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=001f3f" alt="Ali-975"
-     alt="Ali-975" 
-     width = 29%
-</p>
-
-<p>
-  <img align="centre"
-       src="https://github-readme-stats.vercel.app/api?username=Ali-975&show_icons=true&theme=yeblu&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=001f3f" alt="Ali-975"
-       alt="Ali-975" 
-       width = 65%
-</p>
-
-<p>
-  <img align="centre" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-975&theme=algolia&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&background=001f3f"
-       alt="Ali-975" 
-       width = 65%
+<p align="center">
+  <table>
+    <tr>
+      <td style="vertical-align: center; width:70%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ali-975&show_icons=true&theme=yeblu&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=001f3f" alt="GitHub Stats" width="100%"><br><br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-975&theme=algolia&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&background=001f3f" alt="GitHub Streak" width="100%">
+      </td>
+      <td style="vertical-align: top; width:30%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali-975&langs_count=10&show_icons=true&theme=yeblu&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=001f3f" alt="Top Languages" width="100%">
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="centre">
