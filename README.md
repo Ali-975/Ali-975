@@ -9,22 +9,22 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muddassir-ali&label=Profile%20views&color=ff0000&style=flat" alt="muddassir-ali" /> </p> 
+<img src="https://komarev.com/ghpvc/?username=muddassir-ali&label=Profile%20views&color=ff0000&style=flat" alt="muddassir-ali" /> </p> 
 
 <table>
   <tr>
-    <td align="left" width="60%">
+    <td align="left" width="300%">
       
-- 🔭 I’m currently working on **RISC-V SoC Design & FPGA Prototyping**  
-- 🌱 Learning **SystemVerilog | UVM | ASIC Physical Design | OpenROAD**  
-- 👯 Open to collaborate on **RISC-V & EDA Projects**  
+- 🔭 I’m currently working on **RISC-V SoC Design, Verification & FPGA Prototyping**  
+- 🌱 Learning **SystemVerilog | UVM | ASIC Physical Design**  
+- 👯 Open to collaborate on **RISC-V & Custom EDA Projects**  
 - 💬 Ask me about **RTL, FPGA, Verilog, SystemVerilog**  
-- 📫 Reach me at **muddassiraliofficial@gmail.com**  
+- 📫 Reach me at [**muddassiraliofficial@gmail.com**](muddassiraliofficial@gmail.com)  
 
     </td>
-    <td align="right" width="40%">
+    <td align="right" width="00%">
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRyNXU0eGtkMzkybG5uOXJtcnVocThya3VnNnVqNmpkbHphanBocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BemKqR9RDK4V2/giphy.gif" 
-           width="350" height="250">
+           width="400" height="250">
     </td>
   </tr>
 </table>
@@ -40,7 +40,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/muddassiraliofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muddassir ali" height="30" width="40" /></a>
 <a href="mailto:muddassiraliofficial@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="30" width="40"/></a>
-<a href="https://github.com/muddassir-ali" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="30" width="40"/></a>
+<a href="https://github.com/Ali-975" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="30" width="40"/></a>
 </p>
 
 ---
