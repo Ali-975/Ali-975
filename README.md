@@ -1,17 +1,34 @@
-<h1 align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000aaa,100:800060&height=250&section=header&text=Muddassir%20Ali%20Siddiqui&fontSize=45&animation=fadeIn&fontColor=ffffff" />
-</h1>
+</p>
 
 
-  <h3 align="center">⚡ RTL Design & Verification Engineer ⚡</h3>
+  <h1 align="center">⚡ RTL Design & Verification Engineer ⚡</h1>
 
-<p align="center">Exploring the world of <b>RTL Design, FPGA Prototyping, and ASIC Flows</b>. Proficient in **SystemVerilog, Verilog, RISC-V Assembly, and C++**, I love bringing silicon ideas to life with <b>SystemVerilog, RISC-V, and FPGA tools</b>.</p>
+<p align="center">
+  Exploring the world of <b>RTL Design, FPGA Prototyping, and ASIC Flows</b>.  
+  Proficient in <b>SystemVerilog, Verilog, RISC-V Assembly, and C++</b>, I love bringing silicon ideas to life with <b>SystemVerilog, RISC-V, and FPGA tools</b>.
+</p>
 
 <a href="https://github.com/Ali-975">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=muddassir-ali&label=Profile%20views&color=ff0000&style=flat" alt="muddassir-ali" /> </p> 
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td align="left" style="padding:0;">
+      <a href="https://github.com/Ali-975">
+        <img src="https://komarev.com/ghpvc/?username=muddassir-ali&label=PROFILE+VIEWS&color=ff0000&labelColor=ff0000&style=for-the-badge" alt="Profile views"/>
+      </a>
+    </td>
+    <td align="right" style="padding:0;">
+      <a href="https://github.com/Ali-975">
+        <img src="https://img.shields.io/github/followers/Ali-975?logo=github&label=FOLLOWERS&labelColor=555555&color=ff0000&style=for-the-badge" alt="Followers"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <table>
   <tr>
@@ -86,31 +103,28 @@
   <img align="right" 
      src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali-975&langs_count=10&show_icons=true&theme=yeblu&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=001f3f" alt="Ali-975"
      alt="Ali-975" 
-     width = 380
-     hieght = 1500/>
+     width = 29%
 </p>
 
 <p>
   <img align="centre"
        src="https://github-readme-stats.vercel.app/api?username=Ali-975&show_icons=true&theme=yeblu&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=001f3f" alt="Ali-975"
        alt="Ali-975" 
-       width = 600
-       hieght = 500/>
+       width = 49%
 </p>
 
 <p>
   <img align="centre" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-975&theme=blue_navy&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&background=001f3f" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-975&theme=algolia&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&background=001f3f"
        alt="Ali-975" 
-       width = 600
-       hieght = 500/>
+       width = 49%
 </p>
 
 
 
 <p align="centre">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ali-975&theme=blue_navy" alt="Ali-975" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Ali-975&theme=yeblu" alt="Ali-975" width="100%" />
   </a>
 </p>
 
@@ -159,7 +173,7 @@
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
 
-[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=ffffff&bgColor=001f3f)](https://github.com/Ali-975)
+[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quoteColor=ffffff&bgColor=ffffff)](https://github.com/Ali-975)
 
 <a href="https://github.com/Ali-975">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
