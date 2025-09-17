@@ -103,14 +103,14 @@
   <img align="centre"
        src="https://github-readme-stats.vercel.app/api?username=Ali-975&show_icons=true&theme=yeblu&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=001f3f" alt="Ali-975"
        alt="Ali-975" 
-       width = 69%
+       width = 65%
 </p>
 
 <p>
   <img align="centre" 
        src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-975&theme=algolia&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&background=001f3f"
        alt="Ali-975" 
-       width = 69%
+       width = 65%
 </p>
 
 
